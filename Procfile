@@ -1,1 +1,1 @@
-web: python -m run.py --log-file -
+web: python -m run --log-file -
